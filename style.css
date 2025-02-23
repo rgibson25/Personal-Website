@@ -1,0 +1,14 @@
+header{text-align: center;
+}
+html{background-color: pink;}
+section{text-align: center;}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#button:hover{background-color: rgb(126, 193, 126);}
+div:nth-child(odd){background-color: rgb(212, 95, 95);}
+div:nth-child(even){background-color: brown;}
+div{margin-left: 45%;
+margin-right: 45%;}
